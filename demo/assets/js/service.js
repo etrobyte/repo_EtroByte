@@ -30,13 +30,13 @@ const services = {
 							</div>
 						</div>
 
-						<h2>🔗 Our Website Development Process  </h2>
+						<h2>Our Website Development Process  </h2>
                         <ul style="list-style-type: none;padding: 0;">
-                            <li>🔹 Step 1: Consultation & Requirement Gathering – We discuss your goals and industry needs to define the project scope.  </li>
-                            <li>🔹 Step 2: UI/UX Wireframing & Prototyping – We create mockups and wireframes to visualise the website structure.  </li>
-                            <li>🔹 Step 3: Frontend & Backend Development – Using technologies like React, Angular, Node.js, and Laravel, we build an interactive, scalable, and responsive website.  </li>
-                            <li>🔹 Step 4: Testing & Bug Fixing – Comprehensive testing ensures a flawless user experience across all devices.  </li>
-                            <li>🔹 Step 5: Deployment & Maintenance – The final website is launched and continuously monitored for performance and security.  </li>
+                            <li>Step 1: Consultation & Requirement Gathering – We discuss your goals and industry needs to define the project scope.  </li>
+                            <li>Step 2: UI/UX Wireframing & Prototyping – We create mockups and wireframes to visualise the website structure.  </li>
+                            <li>Step 3: Frontend & Backend Development – Using technologies like React, Angular, Node.js, and Laravel, we build an interactive, scalable, and responsive website.  </li>
+                            <li>Step 4: Testing & Bug Fixing – Comprehensive testing ensures a flawless user experience across all devices.  </li>
+                            <li>Step 5: Deployment & Maintenance – The final website is launched and continuously monitored for performance and security.  </li>
                         </ul>
                 `,
     "Mobile App Development": `<div class="service-details-img">
@@ -70,14 +70,14 @@ const services = {
 							</div>
 						</div>
 
-						<h2>📱 How We Develop Mobile Apps</h2>
+						<h2>How We Develop Mobile Apps</h2>
                         <ul style="list-style-type: none;padding: 0;">
-                            <li>📌 Step 1: Idea & Strategy – Understanding your app vision, market research, and creating a strategic roadmap.  </li>
-                            <li>📌 Step 2: UI/UX Design – Crafting intuitive and engaging designs for user satisfaction.  </li>
-                            <li>📌 Step 3: App Development – Coding in Swift/Kotlin for native apps or Flutter/React Native for cross-platform apps.  </li>
-                            <li>📌 Step 4: Testing & Optimization – Conducting functionality, security, and performance testing.  </li>
-                            <li>📌 Step 5: App Store Deployment – Publishing on Google Play Store & Apple App Store with optimization for visibility.  </li>
-                            <li>📌 Step 6: Updates & Support – Providing regular updates and ongoing maintenance for long-term success.  </li>
+                            <li>Step 1: Idea & Strategy – Understanding your app vision, market research, and creating a strategic roadmap.  </li>
+                            <li>Step 2: UI/UX Design – Crafting intuitive and engaging designs for user satisfaction.  </li>
+                            <li>Step 3: App Development – Coding in Swift/Kotlin for native apps or Flutter/React Native for cross-platform apps.  </li>
+                            <li>Step 4: Testing & Optimization – Conducting functionality, security, and performance testing.  </li>
+                            <li>Step 5: App Store Deployment – Publishing on Google Play Store & Apple App Store with optimization for visibility.  </li>
+                            <li>Step 6: Updates & Support – Providing regular updates and ongoing maintenance for long-term success.  </li>
                         </ul>
                         `,
     "Mobile Game Development": `<div class="service-details-img">
@@ -111,14 +111,14 @@ const services = {
 							</div>
 						</div>
 
-						<h2>🎮 Our Game Development Process </h2>
+						<h2>Our Game Development Process </h2>
                         <ul style="list-style-type: none;padding: 0;">
-                            <li>🎯 Step 1: Game Concept & Planning – Brainstorming ideas, creating game mechanics, and defining the target audience.  </li>
-                            <li>🎯 Step 2: Storyboarding & UI/UX Design – Designing immersive game worlds, characters, and user interfaces.  </li>
-                            <li>🎯 Step 3: Game Development – Building the game using Unity, Unreal Engine, or Cocos2d with high-performance optimization.  </li>
-                            <li>🎯 Step 4: Testing & Bug Fixing – Extensive gameplay testing for smooth mechanics, graphics, and responsiveness.  </li>
-                            <li>🎯 Step 5: Publishing & Monetization – Deploying the game to Google Play, App Store, or other gaming platforms with monetization strategies.  </li>
-                            <li>🎯 Step 6: Post-Launch Support – Regular updates, new features, and performance enhancements to keep players engaged.  </li>
+                            <li>Step 1: Game Concept & Planning – Brainstorming ideas, creating game mechanics, and defining the target audience.  </li>
+                            <li>Step 2: Storyboarding & UI/UX Design – Designing immersive game worlds, characters, and user interfaces.  </li>
+                            <li>Step 3: Game Development – Building the game using Unity, Unreal Engine, or Cocos2d with high-performance optimization.  </li>
+                            <li>Step 4: Testing & Bug Fixing – Extensive gameplay testing for smooth mechanics, graphics, and responsiveness.  </li>
+                            <li>Step 5: Publishing & Monetization – Deploying the game to Google Play, App Store, or other gaming platforms with monetization strategies.  </li>
+                            <li>Step 6: Post-Launch Support – Regular updates, new features, and performance enhancements to keep players engaged.  </li>
                         </ul>
                         `,
     "E-commerce Website": `<div class="service-details-img">
