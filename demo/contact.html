@@ -209,26 +209,28 @@
 					<h2>Get In Touch</h2>
 				</div>
 				<div class="contact-form-wrapper">
-					<form action="#">
+					<form method="post">
+						<input type="hidden" name="form_type" value="contact">
+
 						<div class="row">
 							<div class="col-md-6">
 								<div class="contact-form-input">
-									<input type="text" placeholder="Your name">
+									<input type="text" name="name" placeholder="Your name" required>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="contact-form-input">
-									<input type="text" placeholder="Your Mail">
+									<input type="text" placeholder="Your Mail" name="email" required>
 								</div>
 							</div>
 							<div class="col-md-12">
 								<div class="contact-form-input">
-									<input type="text" placeholder="Your Phone no.">
+									<input type="text" placeholder="Your Phone no." name="phone">
 								</div>
 							</div>
 							<div class="col-md-12">
 								<div class="contact-form-input">
-									<textarea placeholder="Message..."></textarea>
+									<textarea placeholder="Message..." name="message"></textarea>
 								</div>
 							</div>
 						</div>
@@ -387,7 +389,7 @@
 			</div>
 		</div>
 		<div class="copyright-text text-center">
-			<span>Copyright By@<a href="index-1.1.html">Themexriver</a> -2021</span>
+			<span><a href="#">2025 © All rights reserved by Etro Byte</a></span>
 		</div>
 	</footer>
 	<!-- End of footer section

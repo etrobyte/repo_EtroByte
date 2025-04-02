@@ -197,7 +197,7 @@ window.onload = () => {
         if (service && services[service]) {
             parentElement.innerHTML = services[service];
         } else {
-            parentElement.innerHTML = `<h2>Service Not Found</h2><p>Sorry, the service you selected is unavailable.</p>`;
+            parentElement.innerHTML = services["Web Development"];
         }
     }
 };
