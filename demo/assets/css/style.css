@@ -12546,6 +12546,13 @@ select:visited {
 .pr-team-details-content {
   box-shadow: 0px 8px 16px 0px rgba(82, 122, 187, 0.1);
 }
+.pr-team-details-img {
+  height: 100%;
+}
+.pr-team-details-img img{
+  height: 100%;
+  object-fit: contain;
+}
 
 .pr-team-details-text {
   padding: 100px 40px 40px;
