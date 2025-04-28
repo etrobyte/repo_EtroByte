@@ -1,6 +1,6 @@
 const services = {
     "Web Development": `<div class="service-details-img">
-							<img src="assets/img/portfolio/pr1.jpg" alt="">
+							<img src="assets/img/portfolio/1.png" alt="">
 						</div>
 						<h2>Web Development</h2>
 						<p>We build dynamic, responsive, and high-performing websites tailored to your business needs. Whether it’s a corporate site, a portfolio, or a custom web application, we ensure a seamless user experience with cutting-edge technology.</p>
@@ -40,7 +40,7 @@ const services = {
                         </ul>
                 `,
     "Mobile App Development": `<div class="service-details-img">
-							<img src="assets/img/portfolio/pr1.jpg" alt="">
+							<img src="assets/img/portfolio/2.png" alt="">
 						</div>
 						<h2>Mobile App Development</h2>
 						<p>From idea to launch, we craft intuitive and feature-rich mobile applications for iOS and Android. Our apps are designed for high performance, scalability, and user engagement, ensuring a smooth digital experience.</p>
@@ -81,7 +81,7 @@ const services = {
                         </ul>
                         `,
     "Mobile Game Development": `<div class="service-details-img">
-							<img src="assets/img/portfolio/pr1.jpg" alt="">
+							<img src="assets/img/portfolio/3.png" alt="">
 						</div>
 						<h2>Mobile Game Development</h2>
 						<p>Bring your game ideas to life with our expert mobile game development services. We create immersive and interactive mobile games with stunning graphics, engaging gameplay, and seamless functionality.</p>
@@ -122,7 +122,7 @@ const services = {
                         </ul>
                         `,
     "E-commerce Website": `<div class="service-details-img">
-                        <img src="assets/img/portfolio/pr1.jpg" alt="">
+                        <img src="assets/img/portfolio/4.png" alt="">
                     </div>
                     <h2>E-commerce Website</h2>
                     <p>We help businesses establish and grow their online presence with powerful, secure, and scalable e-commerce solutions. Our e-commerce websites offer smooth navigation, user-friendly design, and seamless payment integrations for maximum conversions.</p>
@@ -153,7 +153,7 @@ const services = {
                     </div>
                     `,
     "UI/UX Design": `<div class="service-details-img">
-                    <img src="assets/img/portfolio/pr1.jpg" alt="">
+                    <img src="assets/img/portfolio/5.png" alt="">
                 </div>
                 <h2>UI/UX Design</h2>
                 <p>User experience matters! Our creative designers craft stunning, user-friendly interfaces that enhance engagement and usability. We ensure your website or app delivers an intuitive and visually appealing experience for your audience.</p>
